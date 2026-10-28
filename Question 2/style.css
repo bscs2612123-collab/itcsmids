@@ -1,0 +1,17 @@
+body{
+
+}
+.parent{
+    background-color: aqua;
+    height:100vh;
+    width:200px;
+}
+.top {
+    height:100px;
+    width:200px;
+    display: flex;
+    justify-content:space-between;
+}
+.bottom{
+
+}
